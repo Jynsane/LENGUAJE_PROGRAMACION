@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\USUARIO\OneDrive\Escritorio\diagnostico-enfermedades\diagnostico-enfermedades\scala\src\main\scala\app\Main.scala:172:59 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m172 |[0m                [31m"sintomas"[0m -> ujson.Arr(sintomas.map(ujson.Str): [35m_*[0m),[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m                                                     ^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0mThe method `apply` is inserted. The auto insertion will be deprecated, please write `ujson.Str.apply` explicitly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\USUARIO\OneDrive\Escritorio\diagnostico-enfermedades\diagnostico-enfermedades\scala\src\main\scala\app\Main.scala:180:59 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m180 |[0m                [31m"sintomas"[0m -> ujson.Arr(sintomas.map(ujson.Str): [35m_*[0m),[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m                                                     ^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0mThe method `apply` is inserted. The auto insertion will be deprecated, please write `ujson.Str.apply` explicitly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\USUARIO\OneDrive\Escritorio\diagnostico-enfermedades\diagnostico-enfermedades\scala\src\main\scala\app\Main.scala:181:71 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m181 |[0m                [31m"enfermedades"[0m -> ujson.Arr(res.enfermedades.map(ujson.Str): [35m_*[0m),[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m    |[0m                                                                 ^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m    |[0mThe method `apply` is inserted. The auto insertion will be deprecated, please write `ujson.Str.apply` explicitly.[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
